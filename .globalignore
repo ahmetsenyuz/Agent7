@@ -1,0 +1,58 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015/2017/2019
+.vs/
+.vscode/
+*.vscode-test
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.ntvs* 
+*.njsproj
+*.sln.docstates
+
+# Visual Studio 2019 & 2022
+*.preview.config
+*.preview.config.user
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Mac
+.DS_Store
+
+# Rider
+.idea/
+*.iml
+
+# NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResults/
+
+# Coverage reports
+coverage/
+.coverage/
+
+# Local db
+*.mdf
+*.ldf
+
+# Temp files
+*.tmp
+*.temp
